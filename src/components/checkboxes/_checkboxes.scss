@@ -153,5 +153,10 @@
     & > :last-child {
       margin-bottom: 0;
     }
+
+    // adjust positioning of the reveal-block when used with inline checkboxes
+    .govuk-checkboxes--inline & {
+      clear: both;
+    }
   }
 }
