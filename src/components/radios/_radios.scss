@@ -174,5 +174,11 @@
     & > :last-child {
       margin-bottom: 0;
     }
+
+    // adjust positioning of the reveal-block when used with inline radios
+    .govuk-radios--inline & {
+      clear: both;
+    }
+
   }
 }
