@@ -22,11 +22,12 @@
 
 🔧 Fixes:
 
-- Pull Request Title goes here
+- Fix issue with conditional form content and inline form controls
 
-  Description goes here (optional)
+  Fix positioning of the conditional content when used with inline variant
+  of radios and checkboxes
 
-  ([PR #N](https://github.com/alphagov/govuk-frontend/pull/N))
+  ([PR #970](https://github.com/alphagov/govuk-frontend/pull/970))
 
 ## 1.3.0 (feature release)
 
